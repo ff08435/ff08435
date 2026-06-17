@@ -1,50 +1,32 @@
-# Welcome to My GitHub Repository! 🎉
+# Hi, I'm Fatima 👋
 
-Hi there! I'm a university student in my 3rd year and I am about creating impactful projects. This repository serves as a showcase of my journey, featuring projects from **web development** to **Unity-based game creation**. Below is a summary of what you'll find here:
+CS graduate from Habib University (BS Computer Science, June 2026, 100% scholarship), currently working as an **Associate SQA Engineer at Codup** in Karachi. I build test automation pipelines and work on AI/speech systems on the side.
 
----
+## What I'm doing right now
 
-## 📚 About Me
+- 🔍 Designing and running automated test suites with **Playwright** across Shopify and WooCommerce plugin environments, plus API testing with Postman and load testing with JMeter
+- 🗣️ Co-built **Burushaski Yaran**, a speech-to-English translation system for Burushaski, an endangered language isolate spoken in northern Pakistan — our dataset paper was accepted at **CHiPSAL 2026** (co-located with LREC-COLING), and the project placed 3rd for Best Oral Presentation at DURS 2026
+- 🇩🇪 Learning German (currently A1), working toward a Master's in Germany
 
-- **22-year-old Pakistani woman** pursuing a career in computer science.
-- Passionate about problem-solving and leveraging code to create meaningful solutions.
-- Currently exploring **Large Language Models**, **frontend-backend collaboration**, and **2D game development** in Unity.
----
+## Featured Projects
 
-## 🛠️ Projects Overview
+**[Burushaski Yaran](https://github.com/ff08435/Yaran_Web)** — End-to-end speech-to-English translation pipeline for an endangered language. Fine-tuned Whisper Large v2 for ASR, deployed on Hugging Face Spaces with Gradio + ZeroGPU, with a React + Vite + Supabase PWA for offline field data collection. My contributions: data elicitation protocol design (511 sentences, 16 grammatical categories), the data collection PWA, audio augmentation pipeline, model fine-tuning, and the backend inference API.
 
-### **Game Development** 🎮
-- Developed a **2D slingshot game** in Unity where static slingshots shoot at enemies.
-- Features unique bomb projectile mechanics for distance-based enemy detection and destruction.
-- Implements enemy **CameraShaker component** for impactful feedback.
+**AI-Based Resume Checker** — Node.js/Express backend integrating NLP models to score resumes against job criteria via REST API.
 
-### **Web Development** 🌐
-- Working on dynamic websites with **Cybermarket Solutions** branding.
-- Learning how to connect frontend and backend systems for real-time user experiences.
+## Background
 
-### **Python Learning Path** 🐍
-- Solving beginner Python problems and creating small projects.
-- Using **GitHub** for version control and sharing progress.
+Before QA, I worked across frontend development (React, HTML/CSS/JS), game development (Unity/C# at Mindstorm Studios), and UX/product work (Al Baraka Bank digital banking, Savaira Mental Health). My CS coursework covered algorithms, data structures, and NLP/speech processing.
 
----
+## Skills
 
-## 🌟 Notable Achievements
+**Automation/QA:** Playwright, JMeter, Postman, Git
+**AI/ML:** Hugging Face Spaces, Gradio, OpenAI Whisper, NLP integration
+**Backend:** Node.js/Express, REST APIs, Supabase, MySQL/MongoDB
+**Frontend:** React/Vite, PWA/IndexedDB, React Expo
+**Languages:** Python, JavaScript, SQL
 
-- Secured **100% university scholarship** as an undergraduate student.
-- Volunteered for causes supporting underprivileged schools.
-- Built a foundation in programming languages like **C#, C++, Python, and SQL**.
-- Overcame health challenges by developing software skills and focusing on self-improvement.
+## Get in Touch
 
----
-
-## 🔗 Get in Touch
-
-Feel free to explore my projects and share feedback. Let’s connect!
-
-- **Email:** [faisalfatima248@gmail.com](faisalfatima248@gmail.com)
-- **LinkedIn:** [https://www.linkedin.com/in/fatima-faisal-937164283/](https://www.linkedin.com/in/fatima-faisal-937164283/)
-- **GitHub:** You're already here! 🙌
-
----
-
-Thank you for stopping by! Together, let’s code a better future.
+- 💼 [LinkedIn](https://www.linkedin.com/in/fatima-faisal09/)
+- 📧 faisalfatima248@gmail.com
